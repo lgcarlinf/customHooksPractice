@@ -10,7 +10,7 @@ Deploy en Netlify
 REACT 
 
 ### Home
-![](img/Home.png)
+![](src/assets/.png)
 
 
 
