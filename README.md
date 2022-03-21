@@ -12,7 +12,7 @@ REACT
 ### Home
 ![](src/assets/criptoconverter.png)
 
-### Restul
+### Result
 ![](src/assets/criptoconverter2.png)
 
 
