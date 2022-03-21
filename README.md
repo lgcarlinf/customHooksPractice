@@ -10,7 +10,7 @@ Deploy en Netlify
 REACT 
 
 ### Home
-![](src/assets/.png)
+![](src/assets/cryptoconverter.png)
 
 
 
